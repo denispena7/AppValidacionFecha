@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Ejercicio9</string>
+    <string name="button_label">PULSAR</string>
+    <string name="label_fecha">Indicar la fecha:</string>
+    <string name="mensaje_error">Fecha incorrecta</string>
+    <string name="mensaje_error2">¡Debes escribir algo!</string>
+</resources>
